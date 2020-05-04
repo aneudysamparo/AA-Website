@@ -19,7 +19,7 @@ const ServiceList = [
   },
   {
     icon: <FiServer />,
-    title: 'Backend Development (API)',
+    title: 'Backend Development',
     description: 'I offer backend programming services to my customers. I can develop all types of applications using the top of frameworks and languages according to the customer’s requirements.'
   }
 ];

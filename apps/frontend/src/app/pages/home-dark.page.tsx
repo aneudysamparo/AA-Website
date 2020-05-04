@@ -22,7 +22,7 @@ const SlideList = [
 export const HomeDarkPage = () => {
   let title = 'Aneudys Amparo',
     description = `
-    Hey! I\'m Self-taught Fullstack, Frontend, Mobile App and Backend Developer based on Santo Domingo, Dominican Republic.
+    Hey! I\'m Fullstack Web and Mobile App Developer based on Santo Domingo, Dominican Republic.
     I have over 8+ year of Software Development on Web and Mobile, I work with the latest technologies,
     language programming and framework like Javascript, Angular, ReacJS (this website),
     NodeJS, Swift, Kotlin, Dart(Flutter), MongoDB, SQL and more.
