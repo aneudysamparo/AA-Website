@@ -1,6 +1,6 @@
 import React from 'react';
 import Particles from 'react-particles-js';
-import Helmet from '../theme/layout/common/Helmet';
+import Helmet from '../theme/layout/common/helmet';
 import ScrollToTop from 'react-scroll-up';
 import { FiChevronUp } from "react-icons/fi";
 import TextLoop from "react-text-loop";

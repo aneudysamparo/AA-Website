@@ -1,5 +1,5 @@
 import React from 'react';
-import Helmet from '../theme/layout/common/Helmet';
+import Helmet from '../theme/layout/common/helmet';
 import ScrollToTop from 'react-scroll-up';
 import { FiChevronUp } from "react-icons/fi";
 import HeaderDefault from '../theme/layout/header/header-default';
